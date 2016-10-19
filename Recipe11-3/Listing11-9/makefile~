@@ -1,0 +1,2 @@
+main: main.cpp
+	clang++ -lpthread -std=c++1y main.cpp -o main

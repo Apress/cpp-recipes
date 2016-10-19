@@ -1,0 +1,2 @@
+main: main.cpp LocalizationManager.cpp
+	clang++ -std=c++1y main.cpp LocalizationManager.cpp -o main

@@ -1,0 +1,2 @@
+main: main.cpp
+	clang++ -O2 -std=c++1y main.cpp -o main
